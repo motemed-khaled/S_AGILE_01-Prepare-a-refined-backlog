@@ -1,0 +1,3 @@
+1 - As a Administrator , i want to see alist of all members and visitors ,so that i can monitor site visits 
+2 - As a user i want to create an account , so that ican benefit from member discount
+3 - As a user i want to add comments , so that ican have a say etc .....
